@@ -1,0 +1,6 @@
+C:\Users\JohnyTwoJacket\RiderProjects\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\JohnyTwoJacket\RiderProjects\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\JohnyTwoJacket\RiderProjects\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\JohnyTwoJacket\RiderProjects\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\JohnyTwoJacket\RiderProjects\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\JohnyTwoJacket\RiderProjects\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.pdb
